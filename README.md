@@ -1,6 +1,6 @@
 # AutonomousNavigation
 
-### 1 - Implementation of Kalman filter in Jupyter pynotebook
+### 1 - Implementation of Kalman filter in Jupyter Pynotebook
 ### 2 - Code comparing performance of path finding algorithms with different heuristics:
     (in cases including and excluding diagonal movement)
     1) Dijkstra
